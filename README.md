@@ -1,6 +1,6 @@
 # Behavioral-Cloning-in-Autonomous-Drive-Pytorch-Lightning
 
-**End-to-End Deep Learning for Self-Driving Cars Car using Pytorch Lightning**
+**End-to-End Deep Learning for Self-Driving Cars using Pytorch Lightning**
 
 ![](self_driving_example.gif)
 
